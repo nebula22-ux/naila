@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Game Seru</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Portal Game Seru</h1>
+        <p>Mainkan game favoritmu di sini!</p>
+    </header>
+
+    <main class="game-container">
+        <div class="game-card">
+            <img src="https://via.placeholder.com/300x150" alt="Thumbnail Game">
+            <div class="game-info">
+                <h3>Petualangan Mario</h3>
+                <p>Kategori: Action</p>
+                <button>Mainkan Sekarang</button>
+            </div>
+        </div>
+
+        <div class="game-card">
+            <img src="https://via.placeholder.com/300x150" alt="Thumbnail Game">
+            <div class="game-info">
+                <h3>Teka-Teki Silang</h3>
+                <p>Kategori: Puzzle</p>
+                <button>Mainkan Sekarang</button>
+            </div>
+        </div>
+    </main>
+
+</body>
+</html>
